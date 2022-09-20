@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap');
+
+.textImg {
+    position: relative;
+    color: #F9F9F9;
+    font-family: 'Lexend Deca';
+    font-style: normal;
+}
+
+img {
+    opacity: 0.5;
+}
+
+.textImg h2 {
+    position: absolute;
+    font-size: 32px;
+    top: 30%;
+    left: 100px;
+}
+
+.textImg p {
+    position: absolute;
+    font-size: 18px;
+    left: 100px;
+    top: 45%;
+}

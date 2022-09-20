@@ -1,0 +1,44 @@
+.box-main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 1440px;
+    min-width: 320px;
+    height: 958px;
+    background: #f9f9f9;
+}
+
+.text-main {
+    color: #0C0C0C;
+    font-family: 'Lexend Deca';
+    font-style: normal;
+    text-align: center;
+}
+
+.box-main h2 {
+    margin-top: 58px;
+    font-size: 32px;
+}
+
+.box-main p {
+    font-size: 18px;
+}
+
+.air{
+    margin: auto;
+    height: 300px;
+    margin-top: 59px;  
+    left: 100px; 
+}
+
+.air-bot {
+    padding: 76px 25px;
+    background-color: #EBE9EA;
+    margin: 0 0 0 13px;
+    z-index: 99;
+}
+
+.air-box-2 {
+    margin-top: 39px;
+    margin-bottom: 100px;
+}
